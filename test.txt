@@ -4,3 +4,4 @@ KISS
 Sabaton
 Guns
 Metalica
+GasMonkey
