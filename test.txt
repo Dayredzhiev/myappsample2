@@ -3,3 +3,4 @@ AC/DC
 KISS
 Sabaton
 Guns
+Metalica
